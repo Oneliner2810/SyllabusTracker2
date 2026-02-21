@@ -98,7 +98,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Credits
 
-Created for SSC exam aspirants by **The Speedy Brains** 🧠
+Created for SSC exam aspirants by **Oneliner2810** 🧠
 
 ---
 
