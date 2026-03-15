@@ -1,4 +1,4 @@
-# 📚 SSC Syllabus Tracker 2025
+# 📚 SSC Syllabus Tracker 2026
 
 A beautiful, feature-rich syllabus tracker for SSC exam preparation. Track your progress across subjects, topics, and subtopics with an intuitive 3-level hierarchy.
 
